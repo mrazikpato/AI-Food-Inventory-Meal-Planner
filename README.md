@@ -46,7 +46,7 @@ Knižnice:
 **Inštalácia**
 
 Naklonuj repozitár:
- - git clone https://github.com/tvoj-username/ai-food-inventory-planner.git
+ - git clone https://github.com/tvoj-username/ai-food-inventory-meal-planner.git
  - cd ai-food-inventory-planner
    
 Vytvor si a aktivuj virtuálne prostredie:
@@ -68,7 +68,7 @@ V súbore AI_tool.py (alebo akomkoľvek názve skriptu) zmeň OPENAI_API_KEY na 
 Uisti sa, že si v správnom priečinku (kde je skript AI_tool.py) a že máš aktivované virtuálne prostredie.
 
 Spusti príkaz:
- - streamlit run AI_tool.py
+ - streamlit run AI_MealPlan.py
  - V konzole uvidíš odkaz (URL) – zvyčajne niečo ako http://localhost:8501.
  - Otvor si ho v prehliadači; zobrazí sa ti interaktívna aplikácia.
 
